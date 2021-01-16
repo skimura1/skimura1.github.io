@@ -1,25 +1,35 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/discord.jpg
+title: Hidden Bot (Discord Bot)
+permalink: projects/hidden-bot
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-12-21
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Python
+  - Discord
+  - Repl.it
+  - API
+summary: I created a Discord bot on Repl.it IDE that has various features like playing music and giving advice.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/hiddenbot.PNG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The discord bot was a fun idea I had over the winter break. I followed an hour long tutorial: https://www.youtube.com/watch?v=SPTfmiYiuok.
+The video introduced repl.it which is an IDE that you can run code in the cloud for free. After finishing the tutorial, I figured to add more 
+features to the bot, but the tutorial's bot format did not suffice. I had to recreate the bot with online documentation and resources.
+The tutorial based commands on client events (messages in a channel), but I had to use purely commands that the bot can recognize.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The bot is able to do various functions, but I am not done adding features. The bot can give advice to a user that types "!advice", and the bot
+will respond with advice taken from a randomly generated advice API. The bot can flip a coin when a user types "!flip" which is taken from a coin
+flipping API. It can add two numbers together when a user types "!add 1 2" which is a trivial function. Lastly, the most challenging task was to 
+make the bot join a voice channel and play music from a YouTube link. I had to read the discord.py documentation in order to find specific parameters for objects.
+Also, I had look through a bunch of forums to finally integrate the feature to my bot. I had to use a python library called, "youtube_dl.py" which allowed
+me to grab the audio from a YouTube video from a link. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I learned quite a bit from a simple project. I was able to brush up on my Python and utilize scripting functions. I was unfamiliar with getting data from an
+API until I had to request the data from a API and access a JSON file to send data to Discord. Since I was unfamiliar with the discord.py library, I got to practice
+reading the documentation. Lastly, I found out about the repl.it IDE which can be useful in the future.
  
-Source: <a href="http://www.soest.hawaii.edu/rcfnetworkmaps/"><i class="large github icon"></i>Click Here</a>
+Source Code: <a href="https://github.com/skimura1/Hidden-Bot"><i class="large github icon"></i>GitHub</a>   <a href="https://repl.it/@SkylerKim1/Hidden-Bot#main.py"><i class="large github icon"></i>Repl.it</a>
