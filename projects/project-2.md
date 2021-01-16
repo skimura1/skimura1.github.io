@@ -36,4 +36,4 @@ I learned quite a bit from a simple project. I was able to brush up on my Python
 API until I had to request the data from a API and access a JSON file to send data to Discord. Since I was unfamiliar with the discord.py library, I got to practice
 reading the documentation. Lastly, I found out about the repl.it IDE which can be useful in the future.
  
-Source Code: <a href="https://github.com/skimura1/Hidden-Bot"><i class="large github icon"></i>GitHub</a>   <a href="https://repl.it/@SkylerKim1/Hidden-Bot#main.py"><i class="large github icon"></i>Repl.it</a>
+Source Code: <a href="https://github.com/skimura1/Hidden-Bot">GitHub</a>   <a href="https://repl.it/@SkylerKim1/Hidden-Bot#main.py">Repl.it</a>
