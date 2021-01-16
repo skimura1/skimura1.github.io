@@ -21,12 +21,16 @@ The video introduced repl.it which is an IDE that you can run code in the cloud 
 features to the bot, but the tutorial's bot format did not suffice. I had to recreate the bot with online documentation and resources.
 The tutorial based commands on client events (messages in a channel), but I had to use purely commands that the bot can recognize.
 
+<img class="ui medium right floated image" src="../images/features.PNG">
+
 The bot is able to do various functions, but I am not done adding features. The bot can give advice to a user that types "!advice", and the bot
 will respond with advice taken from a randomly generated advice API. The bot can flip a coin when a user types "!flip" which is taken from a coin
 flipping API. It can add two numbers together when a user types "!add 1 2" which is a trivial function. Lastly, the most challenging task was to 
 make the bot join a voice channel and play music from a YouTube link. I had to read the discord.py documentation in order to find specific parameters for objects.
 Also, I had look through a bunch of forums to finally integrate the feature to my bot. I had to use a python library called, "youtube_dl.py" which allowed
 me to grab the audio from a YouTube video from a link. 
+
+<img class="ui medium right floated image" src="../images/play.PNG">
 
 I learned quite a bit from a simple project. I was able to brush up on my Python and utilize scripting functions. I was unfamiliar with getting data from an
 API until I had to request the data from a API and access a JSON file to send data to Discord. Since I was unfamiliar with the discord.py library, I got to practice
