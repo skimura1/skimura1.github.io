@@ -21,7 +21,7 @@ The video introduced repl.it which is an IDE that you can run code in the cloud 
 features to the bot, but the tutorial's bot format did not suffice. I had to recreate the bot with online documentation and resources.
 The tutorial based commands on client events (messages in a channel), but I had to use purely commands that the bot can recognize.
 
-<img class="ui right floated image" src="../images/features.PNG">
+<img class="ui right image" src="../images/features.PNG">
 
 The bot is able to do various functions, but I am not done adding features. The bot can give advice to a user that types "!advice", and the bot
 will respond with advice taken from a randomly generated advice API. The bot can flip a coin when a user types "!flip" which is taken from a coin
