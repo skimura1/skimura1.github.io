@@ -5,7 +5,7 @@ image: images/Networkmap.PNG
 title: SOEST Network Map
 permalink: projects/networkmap
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-13
+date: 2018-2019
 labels:
   - Network
   - Microsoft Visio
