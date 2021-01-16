@@ -13,7 +13,7 @@ labels:
 summary: My co-worker and I developed a network map that shows the layout of network infastructure through out the SOEST buildings and floors.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Networkmap.PNG">
+<img class="ui image" src="../images/Networkmap.PNG">
 
 The network map helps identify the IP addresses associated with each network switch at each building/floors. The network map helps the network admin identify
 which patch panel ports are associated with each network switch. It is created for future network admins and student help understand the network layout of 
@@ -27,5 +27,5 @@ I learned how the SOEST network is connected to the University of Hawaii's netwo
 connected to the main network. In the process of creating the network map, I able to see the physical connections from UH to the specific subnets associated with 
 each building/floor. I got a better understanding of how subnets work. Also, I learned how to use Microsoft Visio create diagrams with labels and connections.
 
-To see all of the diagrams <a href="http://www.soest.hawaii.edu/rcfnetworkmaps/"><i class="large github icon"></i>Click Here</a>
+To see all of the diagrams <a href="http://www.soest.hawaii.edu/rcfnetworkmaps/">Click Here</a>
 
