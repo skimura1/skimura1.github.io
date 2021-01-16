@@ -23,4 +23,5 @@ We used Microsoft Visio to diagram all of the connection and label the ports of 
 different functions such as network switches, patch panels, firewalls and servers. We used the network icon set that visio provides. We used different color to 
 differentiate the subnets in the system. The switch locations are located at the bottom of each section.
 
+To see all of the diagrams <a href="http://www.soest.hawaii.edu/rcfnetworkmaps/"><i class="large github icon"></i>Click Here</a>
 
