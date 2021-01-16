@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/networkmap.png
+image: images/Networkmap.PNG 
 title: SOEST Network Map
 permalink: projects/networkmap
 # All dates must be YYYY-MM-DD format!
