@@ -1,61 +1,27 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/target.JPG
+title: Color Recognition
+permalink: projects/color-recognition
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Python
+  - HSV
+summary: For my UAV Drone team, I had to modify a script that recognized color in Python.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/HSV.PNG">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The drone had to be able to recognize targets with letters and two colors. The script entire script was not written by me, but it was passed down to me from previous members of
+the team. The previous members inputted HSV values based on strict ranges which worked well with primary colors. However, the script had trouble with recognizing many shades of colors. Also, the original script had trouble recognizing the color of the target and the color of the letter inside of the target.
 
-To give you a flavor of the game, here is an excerpt from one run:
+<img class="ui image" src="../images/HSV ranges.PNG">
 
-<hr>
+I had to modify the script to fix the false color recognition. Originally, the script can only test one target at a time, so I had to modify it, so that it was able to test
+mulitple targets at a time. I would test the targets and verify whether the primary (target) and secondary (letter) colors were correct. If they were not correct, I would have
+to modify the HSV value ranges in the script. I found way to break the HSV spectrum into ranges to generalize the color shades.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+I was able to practice Python skills in this project. For the project, I had to learn how to use the command line to run Python code. I learned how HSV values work and applied 
+them to the script. The script was passed down to me, so I practice reading documentation from previous team members. 
