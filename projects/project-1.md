@@ -23,5 +23,9 @@ We used Microsoft Visio to diagram all of the connection and label the ports of 
 different functions such as network switches, patch panels, firewalls and servers. We used the network icon set that visio provides. We used different color to 
 differentiate the subnets in the system. The switch locations are located at the bottom of each section.
 
+I learned how the SOEST network is connected to the University of Hawaii's network. I got a better understanding of how the subnets are split up and how they are 
+connected to the main network. In the process of creating the network map, I able to see the physical connections from UH to the specific subnets associated with 
+each building/floor. I got a better understanding of how subnets work. Also, I learned how to use Microsoft Visio create diagrams with labels and connections.
+
 To see all of the diagrams <a href="http://www.soest.hawaii.edu/rcfnetworkmaps/"><i class="large github icon"></i>Click Here</a>
 
