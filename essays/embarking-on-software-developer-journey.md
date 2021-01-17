@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui left circular floated image" src="../images/wanderer.png">
+<img class="ui medium left circular floated image" src="../images/wanderer.png">
 
 ## Rough Start
 
