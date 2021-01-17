@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Embarking on Software Developer Journey
 # All dates must be YYYY-MM-DD format!
-date: 2021-16-1
+date: 2021-16-01
 labels:
   - Software Engineering
   - Learning
