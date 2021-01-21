@@ -11,7 +11,6 @@ labels:
 ---
 
 <img class="ui left center floated image" src="../images/javascriptcode.jpg">
-(Source: https://miro.medium.com/max/18438/1*Fp43zS64ZPoWi4IAz1n3MA.jpeg)
 
 ## FreeCodeCamp Course
 
