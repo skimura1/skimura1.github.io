@@ -10,7 +10,7 @@ labels:
   - JavaScript
 ---
 
-<img class="ui left center floated image" src="../images/javascriptcode.jpg"
+<img class="ui left center floated image" src="../images/javascriptcode.jpg">
 
 ## FreeCodeCamp Course
 
