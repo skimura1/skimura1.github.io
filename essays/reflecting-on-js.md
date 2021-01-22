@@ -10,16 +10,14 @@ labels:
   - JavaScript
 ---
 
-<img class="ui left center floated image" src="../images/javascriptcode.jpg">
+<img class="ui left floated image" src="../images/javascriptcode.jpg">
 
 ## FreeCodeCamp Course
 
 The FreeCodeCamp course was a fun and interactive way to learn JavaScript. Most of the challenges on FreeCodeCamp were review, but I needed a review on programming. Also, I learned a bunch of new features in the ES6 section of the course. After starting the JavaScript section, I want to finish the rest of the JavaScript section and look at the other courses the site offers.
-<br>
 
-<img class="ui left center floated image" src="../images/arrowFunction.PNG">
+<img class="ui left floated image" src="../images/arrowFunction.PNG">
 
-<br>
 ## JavaScript Thoughts
 
 I found that JavaScript has very similar syntax to Java, but JavaScript does not require data types when declaring variables. I have a habit of declaring my variables with "int" or "String", but in JavaScript, I just have to type "var" or "let" when declaring variables. Also, the functions do not require specified data type parameters and can return multiple datatypes. I can see how the loose data type feature can be beneficial because you do not need to plan all of the data types needed for a function. However, I think there can be problems with the organization and semantics with the feature. Also, a new programmer may have issues with debugging JavaScript code because there is no discrete label for the data type. After watching the lectures about JavaScript, I am curious about why JavaScript is not used in certain fields.
