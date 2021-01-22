@@ -20,6 +20,8 @@ The FreeCodeCamp course was a fun and interactive way to learn JavaScript. Most 
 
 I found that JavaScript has very similar syntax to Java, but JavaScript does not require data types when declaring variables. I have a habit of declaring my variables with "int" or "String", but in JavaScript, I just have to type "var" or "let" when declaring variables. Also, the functions do not require specified data type parameters and can return multiple datatypes. I can see how the loose data type feature can be beneficial because you do not need to plan all of the data types needed for a function. However, I think there can be problems with the organization and semantics with the feature. Also, a new programmer may have issues with debugging JavaScript code because there is no discrete label for the data type. After watching the lectures about JavaScript, I am curious about why JavaScript is not used in certain fields.
 
+<img class="ui left center floated image" src="../images/arrowFunction.PNG">
+
 ## JavaScript ES6
 
 The ES6 section of JavaScript seemed the most confusing because the syntax in JavaScript seem foreign. I have never seen functions defined like a variable before. I still do not understand how function-like variables are used, but C, and Java are unable to define a function like a variable. The arrow function seemed to be useful because it simplified the creation of a function. I can see myself utilizing the arrow function quite a bit. Also, the destructuring assignment seems useful when accessing values in an object, but I would like to practice the syntax more.
