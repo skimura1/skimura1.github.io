@@ -38,4 +38,4 @@ API until I had to request the data from a API and access a JSON file to send da
 reading library documentations. Lastly, I found out about the repl.it IDE which can be useful in the future.
  
 Source Code: <a href="https://github.com/skimura1/Hidden-Bot">GitHub</a>   <a href="https://repl.it/@SkylerKim1/Hidden-Bot#main.py">Repl.it</a>
-\b\b
+<br/> <br/>
