@@ -29,4 +29,4 @@ each building/floor. I got a better understanding of how subnets work. Also, I l
 
 
 To see all of the diagrams <a href="http://www.soest.hawaii.edu/rcfnetworkmaps/">Click Here</a>
-
+<br\> <br\>
