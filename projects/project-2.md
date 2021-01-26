@@ -11,6 +11,7 @@ labels:
   - Discord
   - Repl.it
   - API
+  - JSON
 summary: I created a Discord bot on Repl.it IDE that has various features like playing music and giving advice.
 ---
 
