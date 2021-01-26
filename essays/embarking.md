@@ -7,6 +7,7 @@ date: 2020-01-16
 labels:
   - Software Engineering
   - Learning
+  - Java
 ---
 
 <img class="ui medium left circular floated image" src="../images/wanderer.png">
