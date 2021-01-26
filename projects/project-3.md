@@ -19,9 +19,9 @@ the team. The previous members inputted HSV values based on strict ranges which 
 
 <img class="ui image" src="../images/HSV ranges.PNG">
 
-I had to modify the script to fix the false color recognition. Originally, the script can only test one target at a time, so I had to modify it, so that it was able to test
-mulitple targets at a time. I would test the targets and verify whether the primary (target) and secondary (letter) colors were correct. If they were not correct, I would have
+I had to modify the script to fix the false color recognition. Originally, the script can only test one target at a time, so I had to modify it to test
+multiple targets at a time. I would test the targets and verify whether the primary (target) and secondary (letter) colors were correct. If they were not correct, I would have
 to modify the HSV value ranges in the script. I found way to break the HSV spectrum into ranges to generalize the color shades.
 
-I was able to practice Python skills in this project. For the project, I had to learn how to use the command line to run Python code. I learned how HSV values work and applied 
-them to the script. The script was passed down to me, so I practice reading documentation from previous team members. 
+For the project, I was able to practice Python skills in this project and learn how to use the command line to run Python code. Since I had to determine colors with HSV values, I 
+learned how HSV values work and applied them to the script. The script was passed down to me, so I practice reading documentation from previous team members. 
