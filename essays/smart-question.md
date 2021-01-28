@@ -16,7 +16,7 @@ I stumbled upon this question on Stack Overflow about a JavaScript string featur
 in his JavaScript code. He stated that he added the statement to his code, and the console error disappeared. However, he wanted to know more about what the statement
 means and why he needs to include it. He attempted to research about the statement on Google, but he was not able to find any details. Therefore, he presented his question
 to Stack Overflow. 
-<br/>
+<br/><br/>
 The Stack Overflow community flooded the post with answer. Many of the answers are references to articles, and the users gave their own input on what "use strict" means.
 The question is from 2009, but it is still relevant to new JavaScript programmers. In fact, the answers to the post are still being updated. I think this is a good, smart
 question for that time because the user who asked the question did research before asking the question. I emphasize "for that time" because, if a user asked the question
@@ -39,4 +39,5 @@ Asking smart question as a software engineer is important because we do not know
 question, so the asker and askee will benefit in the time spent. The Stack Overflow question boards is a good place to get an answer that solves a problem, but if one can't ask the right questions, then the problem will still linger. As a result, I hope to improve my questioning ability to improve my chances of getting an answer in a timely manner.
 <br/> <br/> <br/>
 Links to the questions: <br/>[Smart Question](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it) <br/> [Not Smart Question](https://stackoverflow.com/questions/65929562/how-do-i-get-the-values-of-an-appended-element-in-javascript)
+<br/><br/>
 
