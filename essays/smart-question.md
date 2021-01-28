@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Dumb Questions Don't Exist, Lazy Questions Do
+title: Think, Search, Think Harder, then Ask
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-27
 labels:
@@ -35,10 +35,7 @@ In the post, there is long reply chain between the author and a Stack Overflow u
 If the question was more specific and the description was clearer, then the author could have gotten an answer sooner and with less pain.
 
 ## Conclusion
-I would not say there are dumb questions because questions are relative to the knowledge of the questionee. For example, Isaac Newton questioned, "why do apples fall?" (not direct a quote),
-which college students with a background in physics could answer pretty easily. However, there were no textbooks with physics equation to explain the phenomenon in
-Newton's time, and the question led to a classical physics breakthrough. The purpose of questions is to gain knowledge, but if the question is asked in a vague way with
-little to no thought, then the asker will have a hard time getting the answer that he/she wants. On the otherhand, a simple question can have a simple answer which would
-require research with available resources. 
+Asking smart question as a software engineer is important because we do not know everything and technology is everchanging. We want to have a systematic approach to asking a 
+question, so the asker and askee will benefit in the time spent. The Stack Overflow question boards is a good place to get an answer that solves a problem, but if one can't ask the right questions, then the problem will still linger. As a result, I hope to improve my questioning ability to improve my chances of getting an answer in a timely manner.
 
 
