@@ -27,7 +27,7 @@ is one of the top result which shows that the question is stil relevant.
 
 ## Not so Smart, Lazy Question
 <img class="ui image" src="../images/dumbquestion.PNG">
-On contrast, the above question is not a smart question. A user reading the question can interpret the question in many ways and conclude that the question is
+In contrast, the above question is not a smart question. A user reading the question can interpret the question in many ways and conclude that the question is
 not worth answering. I would have assumed that the question pertained to arrays or some data structure. Also, as the question states, "How do I get the values of an
 appended element in JavaScript?", the answer seems trivial, and Googling the answer would suffice. However, the question does not have to do anything with data structures.
 The author of the post wants to get the value of a HTML element in JavaScript. The description of the problem has very little detail and confused many readers.
