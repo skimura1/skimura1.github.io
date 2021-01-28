@@ -38,5 +38,5 @@ If the question was more specific and the description was clearer, then the auth
 Asking smart question as a software engineer is important because we do not know everything and technology is everchanging. We want to have a systematic approach to asking a 
 question, so the asker and askee will benefit in the time spent. The Stack Overflow question boards is a good place to get an answer that solves a problem, but if one can't ask the right questions, then the problem will still linger. As a result, I hope to improve my questioning ability to improve my chances of getting an answer in a timely manner.
 <br/>
-Links to the questions: [Smart Question    ](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it)  [Not Smart Question](https://stackoverflow.com/questions/65929562/how-do-i-get-the-values-of-an-appended-element-in-javascript)
+Links to the questions: <br/>[Smart Question](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it) <br/> [Not Smart Question](https://stackoverflow.com/questions/65929562/how-do-i-get-the-values-of-an-appended-element-in-javascript)
 
