@@ -28,3 +28,4 @@ the shades. Then, I had to type a documenation on how to modify the script, but 
 For the project, I was able to practice Python skills in this project and learn how to use the command line to run Python code. Since I had to determine colors with HSV values, I 
 learned how HSV values work and applied them to the script. The script was passed down to me, so I practice reading documentation from previous team members.  Also, I was able to 
 practice creating documentation for future users.
+<br/> <br/>
