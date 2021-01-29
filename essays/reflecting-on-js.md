@@ -24,7 +24,7 @@ I found that JavaScript has very similar syntax to Java, but JavaScript does not
 
 ## JavaScript ES6
 
-The ES6 section of JavaScript seemed the most confusing because the syntax in JavaScript seem foreign. I have never seen functions defined like a variable before. I still do not understand how function-like variables are used, but C, and Java are unable to define a function like a variable. The arrow function seemed to be useful because it simplified the creation of a function. I can see myself utilizing the arrow function quite a bit. Also, the destructuring assignment seems useful when accessing values in an object, but I would like to practice the syntax more.
+The ES6 section of JavaScript seemed the most confusing because the syntax in JavaScript seem foreign. I have never seen functions defined like a variable before. I still do not understand how function-like variables are used, but C and Java are unable to define a function like a variable. The arrow function seemed to be useful because it simplified the creation of a function. I can see myself utilizing the arrow function quite a bit. Also, the destructuring assignment seems useful when accessing values in an object, but I would like to practice the syntax more.
 
 ## JavaScript WOD
 
