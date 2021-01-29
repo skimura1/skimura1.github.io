@@ -33,3 +33,4 @@ I was able to practice typing JavaScript syntax with the practice Workout of The
 ## Conclusion
 
 JavaScript is a useful language to know. I read a bunch of articles about how JavaScript is widely used in the Software Engineering industry, and I would like to improve my skill in JavaScript. I am looking forward to practicing more JavaScript and implement JavaScript code in web development. Hopefully, one day I can say I mastered a programming language, and I am leaning towards mastering JavaScript.
+<br/> <br/>
