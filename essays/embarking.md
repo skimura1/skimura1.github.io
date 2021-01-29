@@ -36,3 +36,4 @@ try each field on my own and incorporate my passions in each trial.
 
 In ICS 314, I hope to learn more software engineering practices and develop my profile. I want to practice and refine the skills that are needed to be a software engineer.
 Looking through the ICS 314 topics, I am excited to try each module and hopefully one of the module will ignite a life-long journey.
+<br/> <br/>
