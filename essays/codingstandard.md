@@ -19,7 +19,7 @@ headache. In an extreme case, I would not want to read 50 lines of code that is 
 the same.
 
 <img class="ui left floated image" src="../images/eslintpic1.PNG">
-<img class="ui left floated image" src="../images/eslintpic2.PNG">
+<img class="ui floated image" src="../images/eslintpic2.PNG">
 
 ## Improving JavaScript Knowledge
 The coding standards helped me understand something in JavaScript. I didn't quite understand the const declaration until ESLint flagged me for using the let declaration
