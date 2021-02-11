@@ -11,11 +11,13 @@ labels:
 ---
 
 <img class="ui left floated image" src="../images/eslint-logo.jpg">
+<br/> <br/>
 
 ## Readability
 Coding standards make code easier to read. If I am working with a group of people and everyone is using their own formatting, then I would probably get confused when I have to cross reference code. On the other hand, coding standard allows programmers to follow a specific formatting, so multiple people can read the code without the headache. In an extreme case, I would not want to read 50 lines of code that is crammed in 1 line. Since everyone is using a standard, the code will look the same.
 
 <img class="ui left floated image" src="../images/eslintpicfinal.png">
+<br/> <br/>
 
 ## Improving JavaScript Knowledge
 The coding standards helped me understand something in JavaScript. I didn’t quite understand the const declaration until ESLint flagged me for using the let declaration instead of the const. ESLint explained that the variable was not reassigned or changed, so I should use a const declaration. With this simple coding standard correction, I was able to understand why const declarations are used. Also, I would not put semicolons after my function variables, and I would have ESLint errors after every function. I am not used to putting semicolons after functions because Java did not require it. However, I declared the function like a variable with the arrow function, and variables should have a semicolon at the end of the statement.
