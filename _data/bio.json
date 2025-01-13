@@ -17,13 +17,12 @@
     { "name": "Full-stack Web Development" },
     { "name": "Audio Programming" },
     { "name": "Game Development" },
-    { "name": "AR/VR Applications" },
     { "name": "Machine Learning" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C/C++", "Python", "Javascript",  "Java"]
+      "keywords": [ "Python", "Javascript",  "Java", "Go", "C/C++" ]
     },
     {
       "name": "Toolsets/OS",
