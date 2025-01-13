@@ -9,10 +9,10 @@ labels:
   - Javascript
   - GIS
   - Web Map
-summary: "I developed a web mapping tool to display future climate data in Hawaii"
+summary: "Web mapping tool to display future climate data in Hawaii"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/slr-viewer/viewer-screenshot.png">
 
 <a href="https://www.soest.hawaii.edu/crc/slr-viewer">Climate Viewer Link</a>
 
