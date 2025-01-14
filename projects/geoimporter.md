@@ -8,10 +8,11 @@ published: true
 labels:
   - Python
   - API
+  - Tkinter
 summary: "GUI tool to easily interact with Geoserver API"
 ---
 
-<img class="img-fluid" src="../img/geoimporter/geoimporter_screenshot.png">
+<img class="img-fluid" src="../img/geoimporter/geoimporter-screenshot.png">
 
 The GUI is built with Tkinter in Python. The tool utilizes other python
 packages (geoserver-rest, Geopandas, psycopg2) to easily interface with the
