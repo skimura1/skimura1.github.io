@@ -16,7 +16,7 @@ summary: "App that will process multiple photo at once using multithreaded proce
 <div class="text-center p-4"> 
   <img width="200px" class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-main.png">
   <img width="200px" class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-job.png">
-  <img width="200px" class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-square.png">
+  <img width="200px" class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-statistics.png">
 </div>
 
 
