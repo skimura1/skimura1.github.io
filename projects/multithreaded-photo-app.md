@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/multithreaded-photo-app/multithreaded-photo-app-square.png
+image: img/multithreaded-photo-app/multithreaded-photo-app-square.jpg
 title: "Multithreaded Photo App"
 date: 2024
 published: true
@@ -14,9 +14,9 @@ summary: "App that will process multiple photo at once using multithreaded proce
 ---
 
 <div class="text-center p-4"> 
-  <img width="200px" class="img-thumbnail" src="../img/slr-viewer/multithreaded-photo-app-main.png">
-  <img width="200px" class="img-thumbnail" src="../img/slr-viewer/multithreaded-photo-app-job.png">
-  <img width="200px" class="img-thumbnail" src="../img/slr-viewer/multithreaded-photo-app-square.png">
+  <img width="200px" class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-main.png">
+  <img width="200px" class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-job.png">
+  <img width="200px" class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-square.png">
 </div>
 
 
