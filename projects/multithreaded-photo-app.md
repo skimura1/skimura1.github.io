@@ -13,11 +13,9 @@ labels:
 summary: "App that will process multiple photo at once using multithreaded processes"
 ---
 
-<div class="text-center p-4"> 
-  <img width="200px" class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-main.png">
-  <img width="200px" class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-job.png">
-  <img width="200px" class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-statistics.png">
-</div>
+<img class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-main.png">
+<img class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-job.png">
+<img class="img-thumbnail" src="../img/multithreaded-photo-app/multithreaded-photo-app-statistics.png">
 
 
 Source: <a href="https://github.com/skimura1/Multithreaded-Photo-App"><i class="large github icon "></i>skimura1/multithreaded-photo-app</a>
