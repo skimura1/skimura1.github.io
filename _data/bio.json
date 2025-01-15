@@ -6,7 +6,7 @@
     "email": "skyler8@hawaii.edu",
     "phone": "",
     "website": "https://skimura1.github.io",
-    "summary": "I am studying for a Masters of Science in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a Masters of Science in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "skimura1", "url": "http://github.com/skimura1" },
@@ -15,17 +15,17 @@
   },
   "interests": [
     { "name": "Full-stack Web Development" },
-    { "name": "Game Development" },
+    { "name": "Software Engineering" },
     { "name": "Machine Learning" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Javascript",  "Java", "Go", "C/C++" ]
+      "keywords": [ "Python", "Javascript",  "Java", "PHP", "C/C++", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "TailwindCSS", "Laravel", "Pytorch" ]
     }
   ],
   "education": [
@@ -36,7 +36,7 @@
       "startDate": "2024-08",
       "endDate": "Present",
       "courses": [
-        "Computer Vision", "Virtual and Augment Reality", "Concurrent and High-Performance Computing"
+        "Computer Vision", "Virtual and Augment Reality", "Concurrent and High-Performance Computing", "Software Quality & Assurance", "Computational Imaging"
       ]
     },
     {
@@ -93,7 +93,8 @@
       "highlights": [
         "Provided IT support to faculty and staff within the SOEST department, improving operational efficiency
         and ensuring seamless technology integration.",
-        "Streamlined workflows by automating tasks with Bash scripts significantly improving operational efficiency."
+        "Streamlined workflows by automating tasks with Bash scripts significantly improving operational efficiency.",
+        "Assisted System Administrator maintain operations on servers"
       ]
     }
   ]
