@@ -11,7 +11,6 @@ labels:
   - Machine Learning
 summary: "Web based UNET Vocal Extractor for Songs"
 ---
-# AI Vocal Extractor Naive UNET Method 
 The purpose of this project was not to create a state of the art vocal
 extractor, but to recreate a naive method of the vocal extraction. I attempted
 to build my own UNET architecture from scratch and modified it to fit my
@@ -20,7 +19,9 @@ built and/or trained a model. The results are not the best, but I have ideas
 of how to improve it after reading other methods.
 
 ## Methods
+
 <img width="600px" class="img-thumbnail" src="../img/ai-vocal-extractor/ai-vocal-extractor-wav.png">
+
 I converted audio waveform (time-domain) data into a spectrogram
 (frequency-domain) to get frequency data from the audio. I decided this will
 lead to better exctraction of the vocals because waveforms only hold the
@@ -29,10 +30,12 @@ can use the intensity of the frequency, the model can spot where the frequency
 intensity is highest for vocals as opposed to the accompaniment frequencies.
 
 <img width="600px" class="img-thumbnail" src="../img/ai-vocal-extractor/ai-vocal-extractor-unet.png">
+
 I recreated a UNET architecture built in Pytorch and modified it to take a 2D
 spectrogram array as an input.
 
 <img width="600px" class="img-thumbnail" src="../img/ai-vocal-extractor/ai-vocal-extractor-conv.png">
+
 Each convolution step had two 2D convolution layers with a batch normalization
 and leakyReLU activation function. 2D convolution layers were used because the
 input is 2D array, so the learned features would include both right and left
@@ -44,20 +47,20 @@ just incase, negative values do get outputted from the convolution layers,
 leakyReLU would be able to incorporate those values in the activation function.
 
 <img width="600px" class="img-thumbnail" src="../img/ai-vocal-extractor/ai-vocal-extractor-spectrogram.png">
+
 I used Griffin-Lim algorithim to convert the power spectrogram back into audio.
 The Griffin-Lim algorithm attempts to reconstruct the phase of the audio. Since
 Griffin-Lim is only an approximation, the results of the audio will not be the
 most accurate.
 
 ## Results
+
 <div class="text-center p-4"> 
   <img width="400px" class="img-thumbnail" src="../img/ai-vocal-extractor/vocal_actual.png">
   <img width="400px" class="img-thumbnail" src="../img/ai-vocal-extractor/vocal_prediction.png">
 </div>
 
-<iframe width="420" height="315">
-  https://www.youtube.com/watch?v=aTVulUuLlNQ
-</iframe>
+<iframe src="https://www.youtube.com/watch?v=aTVulUuLlNQ" width="420" height="315"></iframe>
 
 There seems to be a lot of static noise within the predicted vocals. I am
 assuming that there are a lot of little values, non-audible noise, in the audio
