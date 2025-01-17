@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ai-vocal-extractor/ai-vocal-extractor-square.png
 title: "AI Vocal Extractor"
-date: 2024
+date: current
 published: true
 labels:
   - Python
@@ -60,7 +60,7 @@ most accurate.
   <img width="400px" class="img-thumbnail" src="../img/ai-vocal-extractor/vocal_prediction.png">
 </div>
 
-<iframe src="https://www.youtube.com/watch?v=aTVulUuLlNQ" width="420" height="315"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aTVulUuLlNQ?si=u6CE5KLoCk9weZcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 There seems to be a lot of static noise within the predicted vocals. I am
 assuming that there are a lot of little values, non-audible noise, in the audio
@@ -74,3 +74,4 @@ exploded. There are many ways I could try to improve this model.
 Website: Coming Soon
 Paper: <a href="../pdf/ICS483_Final_Project.pdf">PDF</a>
 Source: <a href="https://github.com/skimura1/VocalExtractionUnet"><i class="large github icon "></i>skimura1/VocalExtractionUnet</a>
+
