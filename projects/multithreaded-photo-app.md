@@ -13,21 +13,12 @@ summary: "Javafx app that will process multiple photo at once using multithreade
 ---
 
 <div class="text-center p-4">
-    <figure>
-        <img width="500" class="img-fluid" alt="Main Window"
-            src="../img/multithreaded-photo-app/multithreaded-photo-app-main.png">
-        <figcaption>Main Window</figcaption>
-    </figure>
-
-    <figure>
-        <img width="500" class="img-fluid" alt="Job Window" src="../img/multithreaded-photo-app/multithreaded-photo-app-job.png">
-        <figcaption>Job Window</figcaption>
-    </figure>
-
-    <figure>
-        <img width="500" class="img-fluid" alt="Statistics Window" src="../img/multithreaded-photo-app/multithreaded-photo-app-statistics.png">
-        <figcaption>Statistics Window</figcaption>
-    </figure>
+    <img width="500" class="img-fluid" alt="Main Window"
+        src="../img/multithreaded-photo-app/multithreaded-photo-app-main.png">
+    <img width="500" class="img-thumbnail" alt="Job Window"
+    src="../img/multithreaded-photo-app/multithreaded-photo-app-job.png">
+    <img width="500" class="img-thumbnail" alt="Statistics Window"
+    src="../img/multithreaded-photo-app/multithreaded-photo-app-statistics.png">
 </div>
 
 The app is a simple image processing app that utilizes multiple threads in
@@ -87,7 +78,7 @@ compute a value for each pixel in an image. The for loop is split into smaller
 iterations to be done in parallel. The basis of the data parallelization with
 OpenMP is shown in the code block below.
 
-```c++
+```cpp
 #pragma omp parallel shared(input_image, output_image) private(row, col, rgb)
     {
         #pragma omp for
