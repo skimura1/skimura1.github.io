@@ -6,26 +6,29 @@ title: "Multithreaded Photo App"
 date: 2024
 published: true
 labels:
-  - Java
-  - Multithreaded
+  - Java Multithreaded
   - Docker
   - ics432
 summary: "Javafx app that will process multiple photo at once using multithreaded processes"
 ---
-<figure>
-    <img width="200" class="img-fluid" alt="Main Window" src="../img/multithreaded-photo-app/multithreaded-photo-app-main.png">
-    <figcaption>Main Window</figcaption>
-</figure>
 
-<figure>
-    <img width="200" class="img-fluid" alt="Job Window" src="../img/multithreaded-photo-app/multithreaded-photo-app-job.png">
-    <figcaption>Job Window</figcaption>
-</figure>
+<div class="text-center p-4">
+    <figure>
+        <img width="500" class="img-fluid" alt="Main Window"
+            src="../img/multithreaded-photo-app/multithreaded-photo-app-main.png">
+        <figcaption>Main Window</figcaption>
+    </figure>
 
-<figure>
-    <img width="200" class="img-fluid" alt="Statistics Window" src="../img/multithreaded-photo-app/multithreaded-photo-app-statistics.png">
-    <figcaption>Statistics Window</figcaption>
-</figure>
+    <figure>
+        <img width="500" class="img-fluid" alt="Job Window" src="../img/multithreaded-photo-app/multithreaded-photo-app-job.png">
+        <figcaption>Job Window</figcaption>
+    </figure>
+
+    <figure>
+        <img width="500" class="img-fluid" alt="Statistics Window" src="../img/multithreaded-photo-app/multithreaded-photo-app-statistics.png">
+        <figcaption>Statistics Window</figcaption>
+    </figure>
+</div>
 
 The app is a simple image processing app that utilizes multiple threads in
 order to apply filters images. This app is built with Javafx and is forked from
