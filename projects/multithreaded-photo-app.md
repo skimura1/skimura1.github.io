@@ -17,7 +17,7 @@ summary: "Javafx app that will process multiple photo at once using multithreade
         src="../img/multithreaded-photo-app/multithreaded-photo-app-main.png">
     <img width="500" class="img-thumbnail" alt="Job Window"
     src="../img/multithreaded-photo-app/multithreaded-photo-app-job.png">
-    <img width="500" class="img-thumbnail" alt="Statistics Window"
+    <img width="200" class="img-thumbnail" alt="Statistics Window"
     src="../img/multithreaded-photo-app/multithreaded-photo-app-statistics.png">
 </div>
 
