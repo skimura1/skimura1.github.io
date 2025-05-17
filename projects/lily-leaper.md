@@ -23,10 +23,18 @@ lurking."
   allowfullscreen
 ></iframe>
 
-## Controls
-  - Spacebar: Hop
-  - A: Eat Flies
-  - S: Shoot Tadpole
+## 🕹️ Controls Guide
+
+Master your frog’s abilities to survive and thrive:
+
+- **Spacebar** — **Hop**  
+  Tap repeatedly mid-air for extra height!
+
+- **A** — **Eat Flies**  
+  Munch on flying snacks to gain points and power.
+
+- **S** — **Shoot Tadpole** *(Toxic Mode)*  
+  Unleash a powerful shot after consuming a **fairy** and entering **toxic form**.
 
 ## Objective
   - Avoid hitting the crocidile and snake obstacles
