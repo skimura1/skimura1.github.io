@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/geoserver/geoserver-square.png
+image: img/lilyleaper/lily-leaper-square.jpeg
 title: "Lily Leaper"
 date: May 2025
-published: false
+published: true
 labels:
   - Unity
   - C#
