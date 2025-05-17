@@ -16,7 +16,7 @@ lurking."
 ---
 
 <iframe
-  src="../assets/index.html"
+  src="https://skimura1.github.io/LilyLeaper/"
   width="100%"
   height="600px"
   frameborder="0"
