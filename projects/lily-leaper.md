@@ -16,7 +16,7 @@ lurking."
 ---
 
 <iframe
-  src="assets/index.html"
+  src="../assets/index.html"
   width="100%"
   height="600px"
   frameborder="0"
