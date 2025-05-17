@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ai-vocal-extractor/ai-vocal-extractor-square.png
 title: "AI Vocal Extractor"
-date: current
+date: December 2024
 published: true
 labels:
   - Python
