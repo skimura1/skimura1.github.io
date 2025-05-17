@@ -18,7 +18,7 @@ lurking."
 <iframe
   src="https://skimura1.github.io/LilyLeaper/"
   width="100%"
-  height="600px"
+  height="650px"
   frameborder="0"
   allowfullscreen
 ></iframe>
